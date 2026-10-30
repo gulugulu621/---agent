@@ -1,0 +1,8 @@
+[
+  {"scenario":"明确答案","question":"报销需要哪些材料","history":[]},
+  {"scenario":"文档冲突","question":"差旅报销期限多久","history":[]},
+  {"scenario":"资料外","question":"量子芯片的制造工艺是什么","history":[]},
+  {"scenario":"相似改写","question":"出差费用申请要带什么票据和单子","history":[]},
+  {"scenario":"上下文追问","question":"那要交什么材料","history":[{"role":"user","content":"差旅报销怎么办"}]},
+  {"scenario":"工具失败","question":"报销材料","history":[],"note":"运行 tests/test_agent.py 中的 Broken 检索器"}
+]
